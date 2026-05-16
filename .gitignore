@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / TypeScript
+node_modules/
+build/
+
+# IDE
+.idea/
+
+# Claude Code (configuración local)
+.claude/settings.local.json
