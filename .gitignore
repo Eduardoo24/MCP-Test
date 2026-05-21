@@ -3,13 +3,21 @@
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
+.pytest_cache/
 
 # Node / TypeScript
 node_modules/
 build/
+dist/
+
+# Env
+.env
+.env.local
 
 # IDE
 .idea/
+.vscode/
 
 # Claude Code (configuración local)
 .claude/settings.local.json
