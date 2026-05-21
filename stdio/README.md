@@ -6,8 +6,8 @@ Colección de servidores MCP (Model Context Protocol) de ejemplo, implementados 
 
 | Servidor | Lenguaje | Descripción |
 |---|---|---|
-| [calculator-py](Python/calculator-py/) | Python | Calculadora básica: suma, resta, multiplicación y división |
-| [todo-ts](Typescript/todo-ts/) | TypeScript | Gestión de lista de tareas en memoria |
+| [calculator-py](STDIO/Python/calculator-py/) | Python | Calculadora básica: suma, resta, multiplicación y división |
+| [todo-ts](STDIO/Typescript/todo-ts/) | TypeScript | Gestión de lista de tareas en memoria |
 
 ---
 
